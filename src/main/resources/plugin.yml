@@ -1,4 +1,4 @@
-name: afk-plugin
+name: afk
 version: '1.0-SNAPSHOT'
 main: io.key.afkPlugin.enderpearlStasis
 api-version: '1.21'
@@ -6,5 +6,5 @@ authors: [rhea80]
 description: A plugin to toggle spectator mode when typing /afk.
 commands:
   afk:
-    description: Puts user into Spectator mode. Use again to get out of spectator mode.
+    description: afk's a player.
     usage: /afk
